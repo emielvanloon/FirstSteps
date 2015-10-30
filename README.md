@@ -1,7 +1,6 @@
 # FirstSteps
-First exercise for students to get familiar with collaboratively editing data
-
-De algemene workflow voor het maken en inleveren van oprachten via github vind je hier:
+# First exercise for students to get familiar with collaboratively editing data
+# De algemene workflow voor het maken en inleveren van oprachten via github vind je hier:
 
 To have students complete assignments using forks (note: this setup means that **students will be able to see one another's work**):
 
