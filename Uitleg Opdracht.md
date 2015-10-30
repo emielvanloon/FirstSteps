@@ -4,7 +4,7 @@
 
 Om aan de slag te kunnen met deze opdracht doe je eerst het volgende:
 
-Maak een github account aan op [GitHub](https://www.github.com)
+Maak een github account aan op [GitHub](https://www.github.com).
 [Installeer](https://help.github.com/articles/set-up-git/) vervolgens github en gitshell op je eigen computer 
 
 Open github en gitshell
