@@ -1,4 +1,7 @@
 Dit is een testfile om te laten zien hoe je met meerdere personen aan een bestand kunt werken in GitHub.
 Typ hieronder je naam en wat je gisteren hebt gedaan!
 
-Ik heb gisteren pizza gegeten!
+Runa - 30-10-2015
+Ik heb gisteren pizza gegeten bij de GAOS!
+
+...
