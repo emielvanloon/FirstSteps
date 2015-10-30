@@ -14,14 +14,14 @@ Lees op de github pagina de informatie [Creating a Repo](https://help.github.com
 
 Op github.com log je in en op je eigen pagina creeer je een repository. 
 
-'''
+```
 1. linksboven op het plusje klikken
 2. als naam geef je je projectnr en groepsnummer
 3. geef een korte opschrijving.
 4. maak een public repository aan.
 5. kies "maak een readme".
 6. klik create repository
-'''
+```
 
 In het overzicht van je nieuwe repositry staat nu een leeg bestandje *read me*.
 klik hierop, kies edit en zet hierin je studentnummers en namen en wat je met deze data gaat doen.
@@ -30,27 +30,27 @@ In het programma github op je pc staat nu nog niks, omdat je je online versie va
 
 In de gitshell navigeer je naar de github folder op jouw computer (waarschijnlijk C:\Users\Naam\Documents\GitHub )door in de gitshell command window te typen:
 
-'''
+```
 cd C:\Users\[JouwNaam]\Documents\GitHub
-'''
+```
 
 Daarna "kloon" je de repository naar je computer met de command clone:
 
-'''
+```
 git clone [URL van je repository]
-'''
+```
 
 Later kun je je lokale versie van je repository laten aanpassen aan de remote versie (op github.com) met het commando *git pull* (hierover later meer).
 
 De nieuwe folder onder Documents/GitHub kun je nu gebruiken om je onderzoeksgegevens in te plaatsen en beheren.
 Als je klaar bent met het verplaatsen en aanpassen van je data in deze folder kun je ze laten synchroniseren met je remote repository, dat doe je als volgt:
 
-'''
+```
 cd "[padnaarjouwrepository]" 
 git add -A 
 git commit -m "[typ hier een bericht dat kort aangeeft wat je hebt verandered]"
 git push
-'''
+```
 
 Deze sequentie van commando's zorgt ervoor dat alle bestanden uit jouw lokale repository worden opgestuurd naar de remote repository, gematched op basis van bestandsnaam en alles wordt bijgevoegd en geupdate. Nu staan alle gegevens correct op je github.com pagina. 
 
@@ -83,12 +83,12 @@ Open het nieuwe bestandje nu vanuit je file explorer op je eigen computer en voe
 
 Stuur de aanpassingen als volgt terug naar je remote repo:
 
-'''
+```
 cd ..[padnaarjouwmapje]/GitHub/FirstSteps
 git add -A 
 git commit -m "[typ hier een bericht dat kort aangeeft wat je hebt veranderd]"
 git push
-'''
+```
 
 Nu zijn de veranderingen alleen in jouw eigen fork aangepast. Om het in de master branch te laten opnemen stuur je ene pull request naar de beheerder van de master branch. de pull request houdt in dat je haar/hem vraagt jouw veranderingen te pullen
 
@@ -100,28 +100,28 @@ Als de beheerder jouw pull request honoreert wordt jouw verhaaltje toegevoegd in
 
 Ga naar de originele master branch en kopieer de URL
 
-'''
+```
 cd "[padnaarjouwmapje]\GitHub\FirstSteps"
 git remote -v
 git remote add upstream [jouw gekopieerde URL]
-'''
+```
 
 Om te controleren of dit heeft gewerkt:
 
-'''
+```
 git remote -v
-''''
+```
 
 Bij "origin" staat nu de URL van jouw fork
 Bij "upstream" staat nu de URL van de originele master branch
 
 Nu kun je syncen met de volgende commandos:
 
-'''
+```
 git fetch upstream
 git checkout master
 git merge upstream/master
-'''
+```
 
 Ook kun je syncen met de sync knop in het GitHub programma op je computer.
 
