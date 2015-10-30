@@ -1,9 +1,6 @@
 # FirstSteps
-# Get familiar with collaboratively editing data
-## De algemene workflow voor het maken en inleveren van oprachten via github vind je hier:
+## Get familiar with collaboratively editing data
 
-
-### Completing assignments
 
 Follow these steps for each assignment:
 
