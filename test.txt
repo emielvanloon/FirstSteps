@@ -1,4 +1,4 @@
-This is a small testfile to show you how to collaborate with other on a shared dataset using GitHub
+This is a small testfile to show you how to collaborate with others on a shared dataset using GitHub
 Below, type your name, date and what you've done today!
 
 Runa - 30-10-2015
