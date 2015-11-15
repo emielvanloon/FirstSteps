@@ -1,7 +1,7 @@
-Dit is een testfile om te laten zien hoe je met meerdere personen aan een bestand kunt werken in GitHub.
-Typ hieronder je naam en wat je gisteren hebt gedaan!
+This is a small testfile to show you how to collaborate with other on a shared dataset using GitHub
+Below, type your name, date and what you've done today!
 
 Runa - 30-10-2015
-Ik heb gisteren pizza gegeten bij de GAOS!
+I ate pizza at GAOS today!
 
 ...
