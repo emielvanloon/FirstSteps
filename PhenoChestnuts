@@ -1,0 +1,898 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.927867,
+          52.410771,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree47",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1306,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928103,
+          52.41076,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree46",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1243,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922567,
+          52.409516,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree45",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 512,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922108,
+          52.40956899999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree44",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 511,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919169,
+          52.407573,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree43",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 565,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922835,
+          52.401611,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree42",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1240,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.917505,
+          52.40107499999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree41",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 983,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919267,
+          52.40014200000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree40",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 943,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.915864,
+          52.39655599999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree38",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1117,
+        "Kastanjesoort": "Aesculus carnea",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.915842,
+          52.39661099999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree39",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1116,
+        "Kastanjesoort": "Aesculus carnea",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.915825,
+          52.393563,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree34",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 471,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.915968,
+          52.393733,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree35",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1000,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91605,
+          52.393961,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree36",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 472,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916102,
+          52.394199,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree37",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1001,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910884,
+          52.38839699999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree32",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1347,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910799,
+          52.388368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree31",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1342,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910973,
+          52.388428,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree33",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1341,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.907886,
+          52.384109,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree29",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 443,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.907626,
+          52.383985,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree28",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 444,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908328,
+          52.384298,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree30",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 442,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904295,
+          52.37397699999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree1",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 13,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909906,
+          52.318516,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree27",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1938,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910151,
+          52.31866200000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree26",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1939,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894849,
+          52.32293600000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree25",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 2895,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8948,
+          52.323013,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree24",
+        "SELECTIE": "LICHT",
+        "FILTER": null,
+        "Nummer": 2790,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Licht aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893341,
+          52.325239,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree23",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 2814,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895134,
+          52.327435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree22",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3012,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896161,
+          52.330703,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree21",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3177,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896107,
+          52.330695,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree20",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3408,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896249,
+          52.330742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree19",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3178,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896111,
+          52.33272,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree18",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3407,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90635,
+          52.337168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree17",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3401,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.907083,
+          52.338441,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree16",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 2943,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908192,
+          52.33900899999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree15",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3006,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913823,
+          52.34263300000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree14",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3169,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910581,
+          52.34329500000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree13",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3108,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.907734,
+          52.34799,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree12",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3468,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91163,
+          52.35080300000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree11",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1903,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911489,
+          52.35108799999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree10",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 1902,
+        "Kastanjesoort": "Aesculus hippocastanum `Baumannii`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.905104,
+          52.351013,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree9",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3195,
+        "Kastanjesoort": "Aesculus hippocastanum `Pyramidalis`",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90617,
+          52.352716,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree8",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 3600,
+        "Kastanjesoort": "Aesculus carnea",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900702,
+          52.360545,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree7",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 25,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901292,
+          52.363406,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree6",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 15,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900759,
+          52.363309,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree5",
+        "SELECTIE": "LICHT",
+        "FILTER": null,
+        "Nummer": 14,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Licht aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899684,
+          52.367424,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree4",
+        "SELECTIE": "MATIG",
+        "FILTER": null,
+        "Nummer": 21,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Matig aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899571,
+          52.36747,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree3",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 22,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89832,
+          52.371461,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tree2",
+        "SELECTIE": "NIET",
+        "FILTER": null,
+        "Nummer": 88,
+        "Kastanjesoort": "Aesculus hippocastanum",
+        "Aantasting": "Niet aangetast"
+      }
+    }
+  ]
+}
